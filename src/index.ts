@@ -1,2 +1,2 @@
-export const version = '0';
-export const updated = '2025-09-22';
+export const version = '8';
+export const updated = '2025-09-30';
